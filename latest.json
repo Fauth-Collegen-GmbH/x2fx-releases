@@ -1,0 +1,10 @@
+{
+    "name":  "x2fx",
+    "displayName":  "X2FX",
+    "version":  "4.1.4",
+    "publishedAt":  "2026-03-13T14:41:37Z",
+    "manifestUrl":  "https://fauth-collegen-gmbh.github.io/x2fx-releases/x2fx_manifest.xml",
+    "latestCrxUrl":  "https://fauth-collegen-gmbh.github.io/x2fx-releases/x2fx.crx",
+    "versionedCrxFilename":  "X2FX-4.1.4.crx",
+    "versionedCrxUrl":  "https://fauth-collegen-gmbh.github.io/x2fx-releases/X2FX-4.1.4.crx"
+}
