@@ -1,10 +1,10 @@
 {
   "name": "x2fx",
   "displayName": "X2FX",
-  "version": "4.1.5",
-  "publishedAt": "2026-06-11T08:16:43Z",
+  "version": "4.2.0",
+  "publishedAt": "2026-06-26T11:35:06Z",
   "manifestUrl": "https://fauth-collegen-gmbh.github.io/x2fx-releases/x2fx_manifest.xml",
   "latestCrxUrl": "https://fauth-collegen-gmbh.github.io/x2fx-releases/x2fx.crx",
-  "versionedCrxFilename": "X2FX-4.1.5.crx",
-  "versionedCrxUrl": "https://fauth-collegen-gmbh.github.io/x2fx-releases/history/X2FX-4.1.5.crx"
+  "versionedCrxFilename": "X2FX-4.2.0.crx",
+  "versionedCrxUrl": "https://fauth-collegen-gmbh.github.io/x2fx-releases/history/X2FX-4.2.0.crx"
 }
